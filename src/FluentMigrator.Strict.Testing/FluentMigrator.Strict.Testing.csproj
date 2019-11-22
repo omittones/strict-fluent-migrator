@@ -48,78 +48,6 @@
       <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="FluentMigrator, Version=3.1.3.0, Culture=neutral, PublicKeyToken=aacfc7de5acabf05, processorArchitecture=MSIL">
-      <HintPath>..\packages\FluentMigrator.3.1.3\lib\net461\FluentMigrator.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
-    <Reference Include="FluentMigrator.Abstractions, Version=3.1.3.0, Culture=neutral, PublicKeyToken=aacfc7de5acabf05, processorArchitecture=MSIL">
-      <HintPath>..\packages\FluentMigrator.Abstractions.3.1.3\lib\net461\FluentMigrator.Abstractions.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
-    <Reference Include="FluentMigrator.Extensions.SqlAnywhere, Version=3.1.3.0, Culture=neutral, PublicKeyToken=aacfc7de5acabf05, processorArchitecture=MSIL">
-      <HintPath>..\packages\FluentMigrator.Extensions.SqlAnywhere.3.1.3\lib\net461\FluentMigrator.Extensions.SqlAnywhere.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
-    <Reference Include="FluentMigrator.Extensions.SqlServer, Version=3.1.3.0, Culture=neutral, PublicKeyToken=aacfc7de5acabf05, processorArchitecture=MSIL">
-      <HintPath>..\packages\FluentMigrator.Extensions.SqlServer.3.1.3\lib\net461\FluentMigrator.Extensions.SqlServer.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
-    <Reference Include="FluentMigrator.Runner, Version=3.1.3.0, Culture=neutral, PublicKeyToken=aacfc7de5acabf05, processorArchitecture=MSIL">
-      <HintPath>..\packages\FluentMigrator.Runner.3.1.3\lib\net461\FluentMigrator.Runner.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
-    <Reference Include="FluentMigrator.Runner.Core, Version=3.1.3.0, Culture=neutral, PublicKeyToken=aacfc7de5acabf05, processorArchitecture=MSIL">
-      <HintPath>..\packages\FluentMigrator.Runner.Core.3.1.3\lib\net461\FluentMigrator.Runner.Core.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
-    <Reference Include="FluentMigrator.Runner.Db2, Version=3.1.3.0, Culture=neutral, PublicKeyToken=aacfc7de5acabf05, processorArchitecture=MSIL">
-      <HintPath>..\packages\FluentMigrator.Runner.Db2.3.1.3\lib\net461\FluentMigrator.Runner.Db2.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
-    <Reference Include="FluentMigrator.Runner.Firebird, Version=3.1.3.0, Culture=neutral, PublicKeyToken=aacfc7de5acabf05, processorArchitecture=MSIL">
-      <HintPath>..\packages\FluentMigrator.Runner.Firebird.3.1.3\lib\net461\FluentMigrator.Runner.Firebird.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
-    <Reference Include="FluentMigrator.Runner.Hana, Version=3.1.3.0, Culture=neutral, PublicKeyToken=aacfc7de5acabf05, processorArchitecture=MSIL">
-      <HintPath>..\packages\FluentMigrator.Runner.Hana.3.1.3\lib\net461\FluentMigrator.Runner.Hana.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
-    <Reference Include="FluentMigrator.Runner.Jet, Version=3.1.3.0, Culture=neutral, PublicKeyToken=aacfc7de5acabf05, processorArchitecture=MSIL">
-      <HintPath>..\packages\FluentMigrator.Runner.Jet.3.1.3\lib\net461\FluentMigrator.Runner.Jet.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
-    <Reference Include="FluentMigrator.Runner.MySql, Version=3.1.3.0, Culture=neutral, PublicKeyToken=aacfc7de5acabf05, processorArchitecture=MSIL">
-      <HintPath>..\packages\FluentMigrator.Runner.MySql.3.1.3\lib\net461\FluentMigrator.Runner.MySql.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
-    <Reference Include="FluentMigrator.Runner.Oracle, Version=3.1.3.0, Culture=neutral, PublicKeyToken=aacfc7de5acabf05, processorArchitecture=MSIL">
-      <HintPath>..\packages\FluentMigrator.Runner.Oracle.3.1.3\lib\net461\FluentMigrator.Runner.Oracle.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
-    <Reference Include="FluentMigrator.Runner.Postgres, Version=3.1.3.0, Culture=neutral, PublicKeyToken=aacfc7de5acabf05, processorArchitecture=MSIL">
-      <HintPath>..\packages\FluentMigrator.Runner.Postgres.3.1.3\lib\net461\FluentMigrator.Runner.Postgres.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
-    <Reference Include="FluentMigrator.Runner.Redshift, Version=3.1.3.0, Culture=neutral, PublicKeyToken=aacfc7de5acabf05, processorArchitecture=MSIL">
-      <HintPath>..\packages\FluentMigrator.Runner.Redshift.3.1.3\lib\net461\FluentMigrator.Runner.Redshift.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
-    <Reference Include="FluentMigrator.Runner.SqlAnywhere, Version=3.1.3.0, Culture=neutral, PublicKeyToken=aacfc7de5acabf05, processorArchitecture=MSIL">
-      <HintPath>..\packages\FluentMigrator.Runner.SqlAnywhere.3.1.3\lib\net461\FluentMigrator.Runner.SqlAnywhere.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
-    <Reference Include="FluentMigrator.Runner.SQLite, Version=3.1.3.0, Culture=neutral, PublicKeyToken=aacfc7de5acabf05, processorArchitecture=MSIL">
-      <HintPath>..\packages\FluentMigrator.Runner.SQLite.3.1.3\lib\net461\FluentMigrator.Runner.SQLite.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
-    <Reference Include="FluentMigrator.Runner.SqlServer, Version=3.1.3.0, Culture=neutral, PublicKeyToken=aacfc7de5acabf05, processorArchitecture=MSIL">
-      <HintPath>..\packages\FluentMigrator.Runner.SqlServer.3.1.3\lib\net461\FluentMigrator.Runner.SqlServer.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
-    <Reference Include="FluentMigrator.Runner.SqlServerCe, Version=3.1.3.0, Culture=neutral, PublicKeyToken=aacfc7de5acabf05, processorArchitecture=MSIL">
-      <HintPath>..\packages\FluentMigrator.Runner.SqlServerCe.3.1.3\lib\net461\FluentMigrator.Runner.SqlServerCe.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
     <Reference Include="Microsoft.Extensions.Configuration, Version=2.1.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.Extensions.Configuration.2.1.1\lib\netstandard2.0\Microsoft.Extensions.Configuration.dll</HintPath>
       <Private>True</Private>
@@ -212,6 +140,28 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\lib-fluentmigrator\src\FluentMigrator.Abstractions\FluentMigrator.Abstractions.csproj">
+      <Project>{3e19ca41-d511-4b5c-afd9-ef0295bf7f74}</Project>
+      <Name>FluentMigrator.Abstractions</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\lib-fluentmigrator\src\FluentMigrator.Runner.Core\FluentMigrator.Runner.Core.csproj">
+      <Project>{b3831ca6-f495-4806-a005-3f2c2a1647e5}</Project>
+      <Name>FluentMigrator.Runner.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\lib-fluentmigrator\src\FluentMigrator.Runner.SqlServer\FluentMigrator.Runner.SqlServer.csproj">
+      <Project>{ce0fa2fd-da76-4e35-974d-dcc7ed416b03}</Project>
+      <Name>FluentMigrator.Runner.SqlServer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\lib-fluentmigrator\src\FluentMigrator.Runner\FluentMigrator.Runner.csproj">
+      <Project>{05c504af-a8dc-43d3-96a2-84ebe422321b}</Project>
+      <Name>FluentMigrator.Runner</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\lib-fluentmigrator\src\FluentMigrator\FluentMigrator.csproj">
+      <Project>{ed6cb50a-efc1-4d8c-961c-c7b48363c10b}</Project>
+      <Name>FluentMigrator</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
